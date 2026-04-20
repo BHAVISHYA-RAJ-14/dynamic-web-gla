@@ -32,12 +32,10 @@ This project is a dynamic PHP website hosted on an **AWS EC2 (Amazon Linux 2023)
 > **Note:** To see these images, upload your screenshots to the GitHub repository and name them exactly as shown below.
 
 #### 1. Live Website Status
-![Website Screenshot](website_preview.png)
+<img width="1840" height="312" alt="Screenshot 2026-04-20 093733" src="https://github.com/user-attachments/assets/fda2d8f1-ce04-4bce-a5e4-a9c89686df11" />
 
 #### 2. Terminal Configuration
-![Terminal Screenshot](terminal_setup.png)
-
----
+<img width="1402" height="857" alt="Screenshot 2026-04-20 093717" src="https://github.com/user-attachments/assets/012bfed0-fc41-4214-959d-1ed569685430" />
 
 ## 📝 How to Update the Site
 Whenever you want to change the text or code, run these three commands:
